@@ -7,7 +7,7 @@ livros = [
     {
         'id' : 1,
         'titulo' : 'Berserk',
-        'autor': 'Kentaru Miura'
+        'autor': 'Kentaro Miura'
     },
 
     {

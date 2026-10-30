@@ -27,6 +27,6 @@ A API sobe em `http://localhost:5000`.
 {
   "id": 1,
   "titulo": "Berserk",
-  "autor": "Kentaro Miura"
+  "autor": "Kentaru Miura"
 }
 ```
